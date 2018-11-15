@@ -1,0 +1,36 @@
+footer{
+    width: 100%;
+    background-image: url("../img/footer-bg.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+#coffee-footer{
+    width: 1024px;
+    height: 400px;
+    margin: auto;
+    color: #fff;
+    font-size: 12px;
+}
+#coffee-footer h3{
+    margin-bottom: 30px;
+}
+#coffee-footer div.footer-left{
+    width:370px;
+    height:218px;
+    margin:150px 0 0 40px ;
+    float:left;
+}
+#coffee-footer div.footer-center{
+    float:left;
+    margin: 150px 0 0 40px;
+    width:400px;
+    height:234px;
+}
+#coffee-footer div.footer-right{
+    float: left;
+    margin: 150px 0 0 40px;
+}
+
+
+

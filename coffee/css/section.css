@@ -1,0 +1,184 @@
+ul{
+    list-style-type: none;
+}
+#coffee-section .section-vedio-area{
+    height: 250px;
+    width: 1024px;
+    margin: 20px auto;
+    position: relative;
+}
+#coffee-section .section-vedio-area .container{
+    width: 350px;
+    height: 220px;
+    background-image: url("../img/video-bg.jpg");
+    background-size: 350px;
+    background-repeat: no-repeat;
+    margin-left: 182px;
+    background-color: #1d2124;
+    border-radius: 10px;
+}
+#coffee-section .section-vedio-area .play{
+    width: 350px;
+    height: 220px;
+    background: rgba(0,0,0,.7);
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 182px;
+    border-radius: 10px;
+}
+#coffee-section .section-vedio-area .play div img{
+    width: 35px;
+    height: 35px;
+    margin:93px 0 0 158px;
+}
+#coffee-section .section-vedio-area .content{
+    width: 300px;
+    height: 220px;
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 560px;
+}
+#coffee-section .section-vedio-area .content .p1{
+    color: #b68834;
+    font-size: 9px;
+    margin-top: 20px;
+   opacity: 0.4;
+}
+#coffee-section .section-vedio-area  .content h1{
+   margin-top: -10px;
+    width: 250px;
+}
+#coffee-section .section-vedio-area .content .p2{
+    font-size: 9px;
+    margin-top: -5px;
+}
+#coffee-section .section-vedio-area .content .p3{
+    font-size: 9px;
+    opacity: 0.5;
+}
+#coffee-section .menu-area{
+
+    height: 650px;
+    border: 1px transparent solid;
+    margin:60px auto;
+    background-image: url("../img/menu-bg.jpg");
+    background-size: 1024px;
+}
+
+#coffee-section .menu-area .container{
+    height: 400px;
+    margin-top: 40px;
+    text-align: center;
+}
+#coffee-section .menu-area .container .coffee-menu{
+    width: 230px;
+    height: 110px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 1px 7px 10px #ede5dd;
+    float: left;
+    margin: 10px 10px 4px 5px;
+}
+#coffee-section .menu-area .container .coffee-menu h5{
+    text-align: left;
+    margin-left: 15px;
+}
+#coffee-section .menu-area .container .coffee-menu span{
+    text-align: right;
+    float: right;
+    margin-right: 15px;
+    color: #b68834;
+}
+
+#coffee-section .menu-area .container .coffee-menu .p5{
+    font-size: 9px;
+    width: 200px;
+    text-align: left;
+    margin-left: 15px;
+    opacity: 0.5;
+}
+#coffee-section .section-content-img table{
+    margin-top: 50px;
+}
+#coffee-section .section-content-img img{
+    margin: 6px;
+}
+#coffee-section .review-area{
+    background-color: #b68834;
+    height: 600px;
+    margin-top: 50px;
+   border: 1px solid transparent;
+}
+#coffee-section .review-area .row{
+    width: 1024px;
+    margin: auto;
+    height:200px;
+}
+#coffee-section .review-area .row .row-1{
+    width: 490px;
+    heigt:400px;
+    float: left;
+    color: #fff;
+    margin-right: 5px;
+    margin-left: 15px;
+}
+#coffee-section .review-area .row p{
+    font-size: 12px;
+    opacity: 0.8;
+    line-height: 20px;
+}
+#coffee-section .review-area .row-ul{
+    width:1024px;
+    margin: auto;
+    margin-top: -10px;
+
+}
+#coffee-section .review-area .row-ul li {
+    display:inline-block;
+    width:128px ;
+    margin-right:123px;
+}
+#coffee-section .review-area .row-ul li h1{
+    font-size: 45px;
+    font-weight: normal;
+}
+#coffee-section .review-area .row-ul li p{
+    color:#fff;
+    font-size: 12px;
+    margin-top: -26px;
+}
+#coffee-section .blog-area .row-container{
+    width: 1024px;
+    height: 610px;
+    margin: auto;
+}
+#coffee-section .blog-area .row-container1{
+    width:500px;
+    float: left;
+    margin-right: 10px;
+}
+#coffee-section .blog-area .row-container1 a{
+    text-decoration: none;
+    color: #000;
+}
+#coffee-section .blog-area .row-container1 ul{
+    padding: 0;
+}
+#coffee-section .blog-area .row-container1 li{
+    display:inline-block;
+}
+#coffee-section .blog-area .row-container1 li a{
+    border: 1px solid #ddd;
+    display:inline-block;
+    width:110px;
+    height:40px;
+    line-height: 40px;
+    text-align: center;
+    border-radius:40px;
+}
+#coffee-section .blog-area .row-container1 li a:hover{
+    color: #fff;
+    background: #b68834;
+}
